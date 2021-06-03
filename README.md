@@ -17,7 +17,7 @@ Left: Original image -> Middle: Chessboard corner detection image -> Right: Undi
 
 <img src="picture/problem1_2/1587274359.png"  width="300" style="float: left1;"> <img src="result/problem1_2/detected_corner_1587274359.png"  width="300" style="float: left;1"> <img src="result/problem1_2/undistored_1587274359.png"  width="300" style="float: left1;">
 
-<img src="picture/problem1_2/1587274361.png"  width="300" style="float: left2;"> <img src="result/problem1_2/detected_corner_15872743261.png"  width="300" style="float: left2;"> <img src="result/problem1_2/undistored_1587274361.png"  width="300" style="float: left2;">
+<img src="picture/problem1_2/1587274361.png"  width="300" style="float: left2;"> <img src="result/problem1_2/detected_corner_1587274361.png"  width="300" style="float: left2;"> <img src="result/problem1_2/undistored_1587274361.png"  width="300" style="float: left2;">
 
 <img src="picture/problem1_2/1587274364.png"  width="300" style="float: left3;"> <img src="result/problem1_2/detected_corner_1587274364.png"  width="300" style="float: left3;"> <img src="result/problem1_2/undistored_1587274364.png"  width="300" style="float: left3;">
 
