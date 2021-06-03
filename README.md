@@ -17,3 +17,8 @@ Left: Original image -> Middle: Chessboard corner detection image -> Right: Undi
 <img src="picture/problem1_2/1587274324.png"  width="300" style="float: left;"> <img src="result/problem1_2/detected_corner_1587274324.png"  width="300" style="float: left;"> <img src="result/problem1_2/undistored_1587274324.png"  width="300" style="float: left;">
 
 
+## Test
+- python3 problem1_1.py
+- python3 problem1_2.py
+
+
