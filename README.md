@@ -12,4 +12,4 @@ Left is the original image and right is the rotated+contrast modified image
 
 Left is the original image and right is the rotated+contrast modified image
 
-<img src="picture/problem1_2/1587274324.png"  width="300" style="float: left;"> <img src="result/problem1_2/detected_corner_1587274324.png"  width="300" style="float: left;"> <img src="result/problem1_2/undistorted_1587274324.png"  width="300" style="float: left;">
+<img src="picture/problem1_2/1587274324.png"  width="300" style="float: left;"> <img src="result/problem1_2/detected_corner_1587274324.png"  width="300" style="float: left;"> <img src="result/problem1_2/undistored_1587274324.png"  width="300" style="float: left;">
