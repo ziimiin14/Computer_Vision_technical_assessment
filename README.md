@@ -18,7 +18,11 @@ Left: Original image -> Middle: Chessboard corner detection image -> Right: Undi
 
 
 ## Test
-- python3 problem1_1.py
-- python3 problem1_2.py
+- run "python3 problem1_1.py" in your terminal for problem 1.1
+- run "python3 problem1_2.py" in your terminal for problem 1.2
+
+## Dependencies
+- numpy == 1.16.2
+- opencv-python == 4.3.0
 
 
