@@ -10,6 +10,6 @@ Left is the original image and right is the rotated+contrast modified image
 
 ## Results for Problem 1.2
 
-Left is the original image and right is the rotated+contrast modified image
+Left: Original image, Middle: Chessboard corner detection  image, Right: Undistorted image
 
 <img src="picture/problem1_2/1587274324.png"  width="300" style="float: left;"> <img src="result/problem1_2/detected_corner_1587274324.png"  width="300" style="float: left;"> <img src="result/problem1_2/undistored_1587274324.png"  width="300" style="float: left;">
